@@ -7,8 +7,11 @@
 
 ---
 
-📍 India  
-📧 Email: py63535@gmail.com 
+📍 Mumbai, India
+
+---
+
+📧 Email: py63535@gmail.com
 🔗 LinkedIn: [princeyadav](https://linkedin.com/in/mr-princeyadav)  
 👨‍💻 GitHub: [prince-yadav](https://github.com/mr-prince-yadav)  
 📊 Kaggle: [princeyadav](https://www.kaggle.com/prince10129)  
