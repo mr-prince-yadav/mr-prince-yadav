@@ -3,7 +3,7 @@
 #👋 Hello, I'm Prince Yadav!  
 ---
 
-##🚀 AI/ML & Data Science Enthusiast focusing on applied AI  
+#🚀 AI/ML & Data Science Enthusiast focusing on applied AI  
 
 ---
 
