@@ -16,8 +16,13 @@ I am a Computer Science student specializing in Full-Stack Development, Data Sci
 - **[Data Analysis Projects](https://github.com/prince-yadav/data-analysis)** – Excel and PowerBI dashboards with actionable insights.  
 - **[Flask Admin Login](https://github.com/prince-yadav/flask-admin-login)** – Secure admin login system using Flask and Firebase backend.  
 
+## Profiles
+- **[GitHub](https://github.com/prince-yadav)**  
+- **[LinkedIn](https://linkedin.com/in/princeyadav)**  
+- **[Kaggle](https://www.kaggle.com/princeyadav)**  
+- **[Streamlit](https://share.streamlit.io/prince-yadav)**  
+
 ## Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prince%20Yadav-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/princeyadav)  
 [![Email](https://img.shields.io/badge/Email-prince.yadav@email.com-red?style=flat-square&logo=gmail)](mailto:prince.yadav@email.com)  
 
 ## GitHub Stats
