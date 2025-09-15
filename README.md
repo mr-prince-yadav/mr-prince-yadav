@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Prince Yadav 👋
 
-<!--
-**mr-prince-yadav/mr-prince-yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Computer Science student specializing in Full-Stack Development, Data Science, and Machine Learning. I build data-driven applications, interactive dashboards, and predictive models to solve real-world problems efficiently.
 
-Here are some ideas to get you started:
+## Skills
+**Programming Languages:** Python | JavaScript | PHP  
+**Frameworks & Libraries:** Flask | Streamlit | Scikit-learn | Pandas | NumPy  
+**Data Analysis & Visualization:** PowerBI | Excel | Matplotlib | Seaborn  
+**Databases & Cloud:** Firebase | MySQL  
+**Other Tools:** Git | GitHub | HTML | CSS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Key Projects
+- **[Student Portal Dashboard](https://github.com/prince-yadav/student-portal)** – Web portal with ML-based mark prediction and performance tracking.  
+- **[ML Models](https://github.com/prince-yadav/ml-models)** – Random Forest and SMOTE implementations for imbalanced datasets.  
+- **[Data Analysis Projects](https://github.com/prince-yadav/data-analysis)** – Excel and PowerBI dashboards with actionable insights.  
+- **[Flask Admin Login](https://github.com/prince-yadav/flask-admin-login)** – Secure admin login system using Flask and Firebase backend.  
+
+## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prince%20Yadav-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/princeyadav)  
+[![Email](https://img.shields.io/badge/Email-prince.yadav@email.com-red?style=flat-square&logo=gmail)](mailto:prince.yadav@email.com)  
+
+## GitHub Stats
+![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prince-yadav&show_icons=true&theme=radical)
