@@ -1,19 +1,19 @@
 # Hi, I'm Prince Yadav 👋
 
 ## About Me
-I am a Computer Science student specializing in Full-Stack Development, Data Science, and Machine Learning. I build data-driven applications, interactive dashboards, and predictive models to solve real-world problems efficiently.
+I am a Data Science student specializing in Machine Learning, Artificial Intelligence, and Full-Stack Development. I build predictive models, data-driven applications, and interactive dashboards to extract insights and solve real-world problems.
 
 ## Skills
-**Programming Languages:** Python | JavaScript | PHP  
-**Frameworks & Libraries:** Flask | Streamlit | Scikit-learn | Pandas | NumPy  
-**Data Analysis & Visualization:** PowerBI | Excel | Matplotlib | Seaborn  
+**Programming Languages:** Python | R | JavaScript | PHP  
+**Frameworks & Libraries:** Flask | Streamlit | Scikit-learn | Pandas | NumPy | TensorFlow | Keras  
+**Data Analysis & Visualization:** PowerBI | Excel | Matplotlib | Seaborn | Plotly  
 **Databases & Cloud:** Firebase | MySQL  
 **Other Tools:** Git | GitHub | HTML | CSS  
 
 ## Key Projects
 - **[Student Portal Dashboard](https://github.com/prince-yadav/student-portal)** – Web portal with ML-based mark prediction and performance tracking.  
-- **[ML Models](https://github.com/prince-yadav/ml-models)** – Random Forest and SMOTE implementations for imbalanced datasets.  
-- **[Data Analysis Projects](https://github.com/prince-yadav/data-analysis)** – Excel and PowerBI dashboards with actionable insights.  
+- **[ML & AI Models](https://github.com/prince-yadav/ml-models)** – Random Forest, SMOTE, and deep learning implementations for imbalanced datasets.  
+- **[Data Analysis Projects](https://github.com/prince-yadav/data-analysis)** – Excel and PowerBI dashboards providing actionable insights.  
 - **[Flask Admin Login](https://github.com/prince-yadav/flask-admin-login)** – Secure admin login system using Flask and Firebase backend.  
 
 ## Profiles
