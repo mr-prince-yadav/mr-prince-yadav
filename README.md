@@ -1,6 +1,11 @@
+
+---
 #👋 Hello, I'm Prince Yadav!  
+---
 
 ##🚀 AI/ML & Data Science Enthusiast focusing on applied AI  
+
+---
 
 📍 India  
 📧 Email: prince.yadav@email.com  
