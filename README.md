@@ -57,4 +57,4 @@ Data Science student with hands-on experience in Machine Learning, AI, and Full-
 
 ---
 
-🔗 Let's collaborate and build data-driven AI experiences. Reach out for projects, mentorship, or discussion!
+🔗 Let's ideate, innovate, and build cool expericnes with AI. Reach out for collaborations or simply to chat!
