@@ -8,11 +8,11 @@
 ---
 
 📍 India  
-📧 Email: prince.yadav@email.com  
-🔗 LinkedIn: [princeyadav](https://linkedin.com/in/princeyadav)  
-👨‍💻 GitHub: [prince-yadav](https://github.com/prince-yadav)  
-📊 Kaggle: [princeyadav](https://www.kaggle.com/princeyadav)  
-🌐 Streamlit: [prince-yadav](https://share.streamlit.io/prince-yadav)  
+📧 Email: py63535@gmail.com 
+🔗 LinkedIn: [princeyadav](https://linkedin.com/in/mr-princeyadav)  
+👨‍💻 GitHub: [prince-yadav](https://github.com/mr-prince-yadav)  
+📊 Kaggle: [princeyadav](https://www.kaggle.com/prince10129)  
+🌐 Streamlit: [prince-yadav](https://share.streamlit.io/mr-prince-yadav)  
 
 ---
 
