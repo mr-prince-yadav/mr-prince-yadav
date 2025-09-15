@@ -36,11 +36,17 @@ Data Science student with hands-on experience in Machine Learning, AI, and Full-
 ---
 
 ## Tech Toolbox 🛠️
-**Languages:** Python | R | JAVA | SQL | JavaScript | PHP 
+
+**Languages:** Python | R | JAVA | SQL | JavaScript | PHP
+
 **Frameworks & Libraries:** Flask | Streamlit | Tkinter | Scikit-learn | TensorFlow | Keras | Pandas | NumPy | 
+
 **Data Analysis & Visualization:** PowerBI | Excel | Matplotlib | Seaborn | Plotly | Altair 
+
 **Databases & Cloud:** Firebase | SQLlite | MySQL | AWS | GCP  
+
 **Other Tools:** Git | GitHub | Docker | HTML | CSS  
+
 **Specialties:** Predictive Modeling, Deep Learning, NLP, LLMs, Generative AI  
 
 ---
