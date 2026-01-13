@@ -66,14 +66,14 @@ I'm a **B.Sc. Data Science & Artificial Intelligence** student at *University of
 ### 🏥 Healthcare Agent AI (SDG-3 Aligned)
 AI-powered healthcare assistant for symptom analysis, medication & appointment reminders, mental health support, and personalized recommendations.
 
-**Tech:** Python, Streamlit, Supabase, LLMs, Relay Webhooks
+**Tech:** Python, Streamlit, Render, Supabase, LLMs, LangGraphs, Relay Webhooks, API KEY Integration
 
 ---
 
 ### 🎓 Student Performance Intelligence System
 Full-stack academic portal with ML-based mark prediction, performance analytics, and admin/student dashboards.
 
-**Tech:** Python, ML Models, Supabase, Streamlit
+**Tech:** Python, ML Models, Firebase, Streamlit
 
 ---
 
@@ -87,7 +87,7 @@ Real-time yoga pose recognition and correction using computer vision and deep le
 ### 🗄️ Student Database Management System
 Desktop application for managing student data with analytics and visual reports.
 
-**Tech:** Python, Tkinter, SQLite, Matplotlib
+**Tech:** Python, Tkinter, MYSQL, Matplotlib
 
 ---
 
