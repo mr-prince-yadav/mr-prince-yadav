@@ -33,6 +33,16 @@ I'm a **B.Sc. Data Science & Artificial Intelligence** student at *University of
 
 ---
 
+## Professional Highlights 🌟
+- **AI/ML Projects & Research** – Various ML & AI applications in predictive modeling and data analysis (2023 - Present)
+- **Student Portal Dashboard** – Full-stack web portal with ML-based mark prediction and performance tracking  
+- **ML Models** – Random Forest, SMOTE, and deep learning implementations for imbalanced datasets  
+- **Data Analysis Projects** – Excel, PowerBI & Tableau dashboards delivering actionable insights
+- **Student Database Management Sysytem** - Tkinter-based GUI with SQLite, Matplotlib, and Seaborn for CRUD operations and performance visualization
+- **Yoga Pose Detector** - Real-time yoga pose recognition using OpenCV, Mediapipe and YOLO/Deep Learning models, providing pose classification and visual feedback for alignment correction  
+
+---
+
 ## 🛠️ Technical Arsenal
 
 <div align="center">
