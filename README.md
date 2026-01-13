@@ -1,135 +1,119 @@
-<h1 align="center">Hello, I'm Prince Yadav</h1>
-<h3 align="center">AI / ML & Data Science Engineer • Applied AI • Full-Stack Systems</h3>
+<h1 align="center">Hi 👋, I'm Prince Yadav</h1>
+<h3 align="center">AI/ML & Data Science Enthusiast | Building Applied AI Solutions</h3>
 
 <p align="center">
-  <em>B.Sc. Data Science & Artificial Intelligence | Building intelligent, real-world systems</em>
+  <em>🎓 B.Sc. Data Science & AI | 💡 Applied AI | 📊 Data Analytics | 🤖 ML Systems</em>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/mr-princeyadav">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:py63535@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/mr-prince-yadav">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.kaggle.com/prince10129">
-    <img src="https://img.shields.io/badge/Kaggle-Projects-20BEFF?style=for-the-badge&logo=kaggle" />
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle" />
   </a>
 </p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I am a **Data Science & Artificial Intelligence undergraduate** from the University of Mumbai with hands-on experience building **end-to-end AI systems**, including predictive models, intelligent agents, dashboards, and scalable backend services.
+I'm a **B.Sc. Data Science & Artificial Intelligence** student at *University of Mumbai*, passionate about designing **AI-driven systems** that solve real-world problems through data, automation, and intelligent decision-making.
 
-My work focuses on **applied AI** — not experiments, but deployable solutions that solve real problems in healthcare, education, and analytics.
-
-- **Core Focus:** Machine Learning, AI Agents, Data Analytics, Full-Stack AI Systems  
-- **Strengths:** Turning raw data into decisions, automation, system design  
-- **Current Direction:** Agentic AI, LLM-powered applications, production ML  
-- **Location:** Mumbai, India  
+- 🔍 **Focus Areas:** Machine Learning, Applied AI, Data Analysis, LLM-based Systems  
+- 💼 **Career Goal:** AI / ML Engineer building scalable, production-ready solutions  
+- 🌱 **Currently Learning:** Advanced ML, Deep Learning, LLM orchestration, Cloud deployment  
+- ⚡ **Beyond Tech:** Yoga practitioner, disciplined learner, problem-first thinker  
 
 ---
 
-## Technical Skill Set
+## 🛠️ Technical Arsenal
 
-### Languages
-Python • R • Java • SQL • JavaScript • PHP  
+<div align="center">
 
-### AI / Machine Learning
-Scikit-learn • TensorFlow • Keras • Deep Learning • NLP • LLMs • Generative AI  
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **ML & AI** | Scikit-learn • TensorFlow • Keras • NLP • LLMs • Generative AI |
+| **Data Analysis** | Pandas • NumPy • Excel • Statistical Analysis |
+| **Visualization** | Power BI • Matplotlib • Seaborn • Plotly • Tableau |
+| **Frameworks** | Streamlit • Flask • Tkinter |
+| **Databases & Cloud** | Supabase • Firebase • SQLite • MySQL • AWS • GCP |
+| **Tools** | Git • GitHub • Docker • VS Code • Jupyter • Google Colab |
 
-### Data Analysis & Visualization
-Pandas • NumPy • Excel • Power BI • Tableau • Matplotlib • Seaborn • Plotly • Altair  
-
-### Frameworks & App Development
-Streamlit • Flask • Tkinter • FastAPI  
-
-### Databases & Cloud
-Supabase • SQLite • MySQL • Firebase • AWS • GCP  
-
-### Tools & Platforms
-Git • GitHub • Docker • VS Code • Jupyter • Google Colab  
+</div>
 
 ---
 
-## Featured Projects
+## 📊 Featured Projects
 
-### Healthcare Agent AI (SDG-3)
-AI-driven healthcare assistant with:
-- Symptom analysis & risk categorization  
-- Medication and appointment reminders  
-- Mental health tracking  
-- Supabase backend + AI modules + email automation  
+### 🏥 Healthcare Agent AI (SDG-3 Aligned)
+AI-powered healthcare assistant for symptom analysis, medication & appointment reminders, mental health support, and personalized recommendations.
 
-**Tech:** Python, Streamlit, Supabase, LLMs, Relay Webhooks  
+**Tech:** Python, Streamlit, Supabase, LLMs, Relay Webhooks
 
 ---
 
-### Student Performance & Analytics Portal
-Full-stack academic portal featuring:
-- Student & admin authentication  
-- Attendance, marks, and performance tracking  
-- ML-based failure risk prediction  
-- CSV/Excel bulk uploads  
+### 🎓 Student Performance Intelligence System
+Full-stack academic portal with ML-based mark prediction, performance analytics, and admin/student dashboards.
 
-**Tech:** Python, ML, Supabase, Data Visualization  
+**Tech:** Python, ML Models, Supabase, Streamlit
 
 ---
 
-### Yoga Pose Detection System
-Real-time yoga posture recognition system with visual correction feedback.
+### 🧘 Yoga Pose Detection System
+Real-time yoga pose recognition and correction using computer vision and deep learning.
 
-**Tech:** OpenCV, MediaPipe, YOLO, Deep Learning  
-
----
-
-### Student Database Management System
-Desktop application for managing academic records with analytics dashboards.
-
-**Tech:** Python, Tkinter, SQLite, Matplotlib  
+**Tech:** OpenCV, MediaPipe, YOLO, Deep Learning
 
 ---
 
-## Education
+### 🗄️ Student Database Management System
+Desktop application for managing student data with analytics and visual reports.
 
-**Bachelor of Science – Data Science & Artificial Intelligence**  
-University of Mumbai  
-
-**Certifications & Coursework**
-- Machine Learning & Deep Learning (Coursera)
-- Applied Data Analytics & Visualization  
+**Tech:** Python, Tkinter, SQLite, Matplotlib
 
 ---
 
-## What I’m Building Next
+## 🎯 2026 Roadmap
 
-- Production-ready AI agent systems  
-- LLM-powered decision engines  
-- Scalable ML pipelines  
-- Public technical writing & open-source contributions  
+- [ ] Build 5+ production-grade AI/ML projects  
+- [ ] Master LLM-based agent systems  
+- [ ] Deploy scalable AI apps on cloud platforms  
+- [ ] Contribute to open-source AI projects  
+- [ ] Build a professional AI portfolio website  
 
 ---
 
-## Philosophy
+## 💭 Philosophy
 
 <p align="center">
-  <em>"Build systems that think, scale, and create measurable impact."</em>
+  <em>"Build systems that think, scale, and create impact."</em>
 </p>
 
 ---
 
-## Connect
-
-- **Email:** py63535@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/mr-princeyadav  
-- **GitHub:** https://github.com/mr-prince-yadav  
-- **Kaggle:** https://www.kaggle.com/prince10129  
+## 🤝 Let's Connect!
 
 <p align="center">
+  Interested in AI, ML, or data-driven systems?<br>
+  Open to collaborations, internships, and meaningful discussions.
+</p>
+
+<p align="center">
+  <strong>📧 Email:</strong> py63535@gmail.com <br>
+  <strong>🔗 LinkedIn:</strong> <a href="https://linkedin.com/in/mr-princeyadav">linkedin.com/in/mr-princeyadav</a>
+</p>
+
+---
+
+<p align="center">
+  <em>⭐ Thanks for visiting! If you like my work, consider following ⭐</em><br>
   <img src="https://komarev.com/ghpvc/?username=mr-prince-yadav&label=Profile%20Views&color=brightgreen&style=flat" />
 </p>
