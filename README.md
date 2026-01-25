@@ -117,13 +117,17 @@ Desktop application for managing student data with analytics and visual reports.
 </p>
 
 <p align="center">
-  <strong>📧 Email:</strong> py63535@gmail.com <br>
+  <strong>📧 Email:</strong> <a href= mailto:py63535@gmail.com> py63535@gmail.com </a><br>
   <strong>🔗 LinkedIn:</strong> <a href="https://linkedin.com/in/mr-princeyadav">linkedin.com/in/mr-princeyadav</a>
 </p>
 
 ---
 
 <p align="center">
-  <em>⭐ Thanks for visiting! If you like my work, consider following ⭐</em><br>
-  <img src="https://komarev.com/ghpvc/?username=mr-prince-yadav&label=Profile%20Views&color=brightgreen&style=flat" />
+  <em>⭐ Thanks for visiting my GitHub profile! If you like my work, consider following ⭐</em><br><br>
+  <a href="https://github.com/mr-prince-yadav" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=mr-prince-yadav&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
