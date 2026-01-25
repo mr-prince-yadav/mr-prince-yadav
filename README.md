@@ -118,7 +118,7 @@ Desktop application for managing student data with analytics and visual reports.
 
 <p align="center">
   <strong>📧 Email:</strong> <a href= mailto:py63535@gmail.com> py63535@gmail.com </a><br>
-  <strong>🔗 LinkedIn:</strong> <a href="https://linkedin.com/in/mr-princeyadav">linkedin.com/in/mr-princeyadav</a>
+  <strong>🔗 LinkedIn:</strong> <a href="https://linkedin.com/in/mr-prince-yadav">linkedin.com/in/mr-prince-yadav</a>
 </p>
 
 ---
