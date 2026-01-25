@@ -39,7 +39,7 @@ I'm a **B.Sc. Data Science & Artificial Intelligence** student at *University of
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Languages** | [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/) [![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/) [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/en/) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) |
 | **ML & AI** | Scikit-learn • TensorFlow • Keras • NLP • LLMs • Generative AI |
 | **Data Analysis** | Pandas • NumPy • Excel • Statistical Analysis |
 | **Visualization** | Power BI • Matplotlib • Seaborn • Plotly • Tableau |
